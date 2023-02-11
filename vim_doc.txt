@@ -1,0 +1,16 @@
+if you had 
+one shot one oportunity 
+to seize every thing you ever want it 
+
+a help to use vim editor:
+
+i. insert 
+x. delete \+shift 
+d. delete 
+u. undo 
+ctrl+r. redo
+o. new line
+3G. line 3
+^.$. start and end 
+/search.
+
